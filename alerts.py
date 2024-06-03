@@ -16,6 +16,12 @@ alertText =alert.text
 print(alertText)
 assert name in alertText
 
+
+
+
+
+
+
 #alert.dismiss()
 
 alert.accept()
